@@ -10,6 +10,10 @@ namespace Static_keyword
     {
         static void Main(string[] args)
         {
+            List<Cat> catArmy = new List<Cat>();
+            List<Turtle> turtleArmy = new List<Turtle>();
+
+            Random rand = new Random();
         }
     }
 }
